@@ -1,4 +1,4 @@
-# Belay — Robust Error-Handling for Kotlin and Android
+# ![Belay — Robust Error-Handling for Kotlin and Android](banner.png)
 
 [![CI](https://img.shields.io/github/workflow/status/specto-dev/belay/CI/main)](https://github.com/specto-dev/belay/actions?query=workflow%3ACI) [![Maven Central](https://img.shields.io/maven-central/v/dev.specto/belay)](https://search.maven.org/artifact/dev.specto/belay) ![code size](https://img.shields.io/github/languages/code-size/specto-dev/belay) ![Kind Speech](https://api.kindspeech.org/v1/badge?color=4e65d2)
 
